@@ -21,10 +21,13 @@ con ello la app en react puede acceder a la imagen, ya que en el servidor habili
 
 ## Prueba técnica
 
-[ ] Utilice [Vite](https://vitejs.dev/) para inicializar el proyecto en React
-[ ] para correr el proyecto hay que ejecutar los siguientes comandos en la terminal (primero hay que dirigirse a la carpeta *prueba-tecnica* desde la terminal):
+- [ ] Utilice [Vite](https://vitejs.dev/) para inicializar el proyecto en React
+- [ ] Para correr el proyecto hay que ejecutar los siguientes comandos en la terminal (primero hay que dirigirse a la carpeta *prueba-tecnica* desde la terminal):
 
 ```
 npm install 
 npm run dev
 ```
+
+- [ ] La prueba solo indicaba manejadores de eventos para OnDrag, OnResize.
+sin embargo, como un plus agregue el manejador para OnRotate para que estuviera mas completo.
